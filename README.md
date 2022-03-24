@@ -5,7 +5,7 @@ Any new suggestions to improve my code are welcome!
 
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation. 
 Internship Domain- Web Development and Design Internship 
-Duration - 2 Month ( FEB-2021 ) 
+Duration - 2 Month ( MARCH-2022 ) 
 Internship Type - Work from Home  
 Task-1 : Basic Banking System.
 
